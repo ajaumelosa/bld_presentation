@@ -1,0 +1,186 @@
+---
+title: "Accessing Multiple Forgotten Birth Languages"
+subtitle: "The Case of Bilingual-Born International Adoptees"
+author: "Alejandro A.Jaume Losa"
+institute: "Department of Spanish and Portuguese, Rutgers University"
+date: "Bilingual Language Development"
+output: 
+  xaringan::moon_reader:
+    css: [default, hygge, rutgers, rutgers-fonts]
+---
+
+# Introduction
+
+* The process of acquiring a language starts both automatically and extremely early, even before birth (Choi et al., 2017b).
+
+* The first year of life seems to be a period of great linguistic development (Choi et al., 2017a; Choi et al., 2017b; Singh et al., 2011).
+
+* This process, however, can be interrupted due to several factors: internationally adopted children.
+
+* After adoption, these children are no longer exposed to their birth language, and the language input they heard in the womb and in the early months of life does not correspond to the language that eventually becomes their native language (Choi et al., 2017b).
+
+* As a consequence, this new language is rapidly acquired, and their birth language, by contrast, is quickly forgotten (Snedeker et al., 2007).
+
+---
+
+# Introduction
+
+* Several studies on this topic relate this phenomenon to a process of L1 attrition (Anderson, 2001; Montrul, 2011; Schmid & Köpke, 2017; Snedeker et al., 2007). 
+
+  + L1 attrition can be understood as the **loss** of aspects of the first language system after **prolonged exposure** to a second language (L2) and **disuse** of the first language (L1) (Montrul, 2011).
+
+  + L1 attrition is considered to be the process by which a pre-existing linguistic knowledge becomes **less accessible** or is modified to some extent as a result of the acquisition of a new language and, therefore, L1 production, processing or comprehension are affected by the presence of this other language (Schmid & Köpke, 2017).
+
+* Can we talk about L1 attrition in the case of international adoptees?
+
+---
+
+# Introduction: L1 attrition?
+
+
+* There are two main factors that would contribute to the nature and potential extent of first language attrition: **age of onset of bilingualism** and the **quantity and quality of input and use in the L1** (Montrul, 2011).
+
+* **Age of onset of bilingualism**: the younger the individual when intense exposure to the L2 begins at the expense of L1 use, the greater the extent of L1 attrition. However, none of them have found unequivocal support for this hypothesis (Choi et al., 2017b; Pallier et al., 2003; Ventureyra et al., 2004).
+
+* **Quantity and quality of input**: L1 attrition effects are less intense when input is continued, even if only minimally (Anderson, 2001, Montrul, 2011). However, input in the case of international adoptees is abruptly interrupted after adoption. Accordingly, it could be questioned if international adoptees verily undergo a process of L1 attrition, given that their L1 is not fully developed. 
+
+---
+
+# Introduction: L1 accessible?
+
+* **Yes**: it appears that international adoptees are able to access their birth language even when they are no longer exposed to it after adoption (Choi et al., 2017b; Oh et al., 2010; Singh et al., 2011).
+
+* Why?: **storage strenght**. Some key features of the language are acquired within the first months and remain in the memory of the adopted children even after adoption in the form of abstract knowledge. 
+
+* However, due to the lack of exposure and use, **accessing** the birth language maybe almost impossible without a **relearning** or **training** process (**retrieval strength**).
+
+* This issue, however, has been only explored in monolingual-born international adoptees. But: 
+
+  + What if these international adoptees were exposed to two languages before their adoption? 
+  + Would they still be able to access both birth languages? 
+  + And, if so, would their abstract knowledge be the same in both birth languages?
+
+---
+
+# The Study
+
+* **Goal**: to explore what happens when bilingual-born international adoptees try to relearn their two birth languages as adults after becoming monolingual in their *third* language.
+
+* **Participants**: two groups of monolingual English speakers who were adopted from two different bilingual regions: Catalonia (Spain) and Áncash (Peru). Spanish = language in common. Two subgroups based on age of adoption: before and after 6 months of age.
+
+* **Focus**: phonological abilities both in **perception** and **production** in their respective birth languages: Spanish, Catalan, and Quechua.
+
+* How? Participants will complete a series of both perception and production tasks on **phoneme contrasts** that are difficult to distinguish for native English speakers:
+
+  + Spanish: /x/ and /h/
+  + Catalan: /ʎ/ and /i/
+  + Quechua: /k/ and /q/
+
+---
+
+# Research Questions: 
+
+  1. Can international adoptees who were exposed to two languages before their adoption access both of their birth languages?
+  
+  2. Does age of adoption have an impact on the early linguistic knowledge that can be accessed by international adoptees in their respective birth languages? 
+  
+  3. Does training play an important role in the process of accessing the early linguistic knowledge of international adoptees’ birth languages?
+  
+  4. Does similarity between languages pose an advantage to international adoptees when accessing the early linguistic knowledge of their two birth languages? 
+  
+---
+
+# Method
+
+* **Participants**:
+  
+  + Spanish - Catalan adoptees. (N = 30, 20-25 years old). Adopted bewteen 3 and 50 months of age. 16 participants adopted before 6 MoA, and 14 after 6 MoA.
+  
+  + Spanish - Quechua adoptees. (N = 30, 20-25 years old). Adopted bewteen 3 and 60 months of age. 16 participants adopted before 6 MoA, and 14 after 6 MoA.
+  
+  + English controls. (N = 30, 20-25 years old). No knowledge of Spanish, Catalan or Quechua.
+  
+  + Control group of 51 native speakers of Spanish, Catalan, and Quechua (age 20-25, 24 females) will provide native control data for the perception task and will help assess and rate the recordings from the production task.
+  
+  + Each group will be further subdivided into two groups: one group that does not receive training, and one group that does.
+  
+---
+
+# Method
+
+* **Materials and procedure**:
+
+  + Language Background Assessment: 
+  
+        - Participants will first answer a detailed questionnaire that will include general questions about language background and specific questions about the quantity and quality of their experience with Spanish, Catalan or Quechua since birth.
+        
+        - Participants will also attend a follow-up interview in order to clarify questionnaire responses. 
+    
+        - Moreover, to corroborate their self-reports, we are going to use the reports from the independent informants, that is, a group of people known to the participants who are going to tell us about the participants’ experience with Spanish, Catalan, and Quechua.
+    
+---
+
+# Method
+
+* **Materials and procedure**:
+
+  + Phoneme Perception Task:
+  
+        - ABX Technique: participants will hear a native speaker of one of their two birth languages say two different words (A and B), and then a second speaker repeat one of these two words (X). Then, they are going to be asked to identify whether X matched A or B.
+        
+        - A and B will always come from one pair of words and/or pseudowords. Within each pair, words will vary only on the target phoneme contrast (for example, caja vs. caha*, in Spanish; coll vs. coi, in Catalan; and qucha vs. kucha, in Quechua). 
+        
+        - In each trial, participants will hear both word via headphones, see the entire pair presented in the language’s orthography on a computer screen, and be asked to indicate which word they hear by pressing a button.
+  
+---
+
+# Method
+
+* **Materials and procedure**:
+
+  + Phoneme Perception Task:
+  
+        - Participants with no training: they will be presented with 20 phoneme contrasts in three different blocks (60 in total).
+        
+        - Participants with training: there will be a 10–15-minute lesson on the unique phoneme contrast of each language. This lesson will include audio examples played by the researcher as well as a brief explanation on the different phoneme contrasts. After that, they will be presented with the same 20 phoneme contrasts in three different blocks, as the groups that did not receive training.
+
+---
+
+# Method
+
+* **Materials and procedure**:
+
+  + Phoneme Production Task:
+  
+        - Rapid repetition task: participants are going to hear a native speaker of one of their two birth languages say a word containing the target phoneme contrast and they will be required to repeat it immediately.
+
+        - The stimuli in this task are also going to be presented in three blocks. Each block will include 20 words containing the target phoneme contrast.
+        
+        - Participants within the training groups will be asked if they would like a quick refresher on the phoneme contrasts.
+        
+        - The goodness of the target phoneme contrast realization in these recordings will be assessed and rated by three independent groups of 15 native speakers of Spanish, Catalan, and Quechua (respectively) using a 5-point scale.
+
+---
+
+# Method
+
+* **Results assessment**:
+
+  + In order to assess the results from both the perception and production tasks, we are going to perform two ANOVAs, one for perception scores and one for production scores. 
+
+  + This is a statistical test that is used to investigate the relationship between several independent variables and a single dependent variable.
+  
+  + In this case, for one of the ANOVAs, the dependent variable will be perception scores and the independent variables will be group, age at adoption, and training. For the other ANOVA, the independent variables will remain the same, however, the dependent variable will be production scores.
+
+---
+
+# Method
+
+* **Potential confounding factors**:
+
+  + First, when it comes to SES, the family environment in which the participants have grown up is likely to be very varied.
+
+  + Second, we must also consider the variety of the birth language to which the adopted participants were exposed, which is likely to be different from the variety of the language that native speakers will use in both the perception and production tasks.
+  
+  + Finally, it is also possible that some participants may have received musical education, which would make their perceptual skills better than those of the rest of the participants, which could have an impact on the results.
+
